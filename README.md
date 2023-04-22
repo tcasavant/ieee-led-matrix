@@ -8,5 +8,9 @@ https://code.visualstudio.com/download
 ### WLED Firmware
 https://github.com/Aircoookie/WLED
 
+Click Code -> Download ZIP
+
 ### WLED Flasher
 https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_%20ESP_Flasher
+
+Choose OS -> Click Download
